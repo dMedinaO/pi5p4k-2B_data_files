@@ -8,13 +8,11 @@ Changes in salinity are a significant factor driving the distribution, community
 
 ### Results
 
-The results showed that *A. purpuratus* presented a wide range of tolerance to salinity changes between 34 to 57.7 g/L. We also identified an upregulation in the gene coding for the enzyme phosphatidylinositol-5-phosphate-4-β kinase type II (PI5P4K-2β) as a
-response to hyperosmotic stress at 7 days.
+The results showed that *A. purpuratus* presented a wide range of tolerance to salinity changes between 34 to 57.7 g/L. We also identified an upregulation in the gene coding for the enzyme phosphatidylinositol-5-phosphate-4-β kinase type II (PI5P4K-2β) as a response to hyperosmotic stress at 7 days.
 
 ### Conclusions
 
-\textit{A. purpuratus} responded to hypersaline stress under laboratory conditions. This study was the first to show a positive response in the
-expression of the PI5P4K-2$\beta$ gene under hyperosmotic conditions in this species.
+*A. purpuratus* responded to hypersaline stress under laboratory conditions. This study was the first to show a positive response in the expression of the PI5P4K-2β gene under hyperosmotic conditions in this species.
 
 ## figure_data
 
