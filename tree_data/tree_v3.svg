@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1232"
+   height="1196"
+   name="tree_v3.svg"
+   y="0"
+   viewBox="0 0 1232 1196"
+   id="svg352"
+   sodipodi:docname="tree_v3.svg"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
+  <metadata
+     id="metadata358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs356" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview354"
+     showgrid="true"
+     inkscape:zoom="1.8494983"
+     inkscape:cx="827.95724"
+     inkscape:cy="1064.3385"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg352"
+     inkscape:document-rotation="0"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1183" />
+  </sodipodi:namedview>
+  <polyline
+     points="1232,1196 0,1196 0,0 1232,0 1232,1196"
+     fill="#ffffff"
+     id="polyline2"
+     transform="translate(0,-1)" />
+  <text
+     x="636.31738"
+     y="40.248165"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text4"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 037285547.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan182">Rhipicephalus microplus</tspan></text>
+  <polyline
+     points="312,44 312,32 315,32"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline6"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.02185"
+     y="67.927834"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text8"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 037511086.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan184">Rhipicephalus sanguineus</tspan></text>
+  <polyline
+     points="312,45 312,56 313,56"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline10"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="292,62 292,44 312,44"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline12"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.43353"
+     y="96.466644"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text14"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 029833426.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan186">Ixodes scapularis</tspan></text>
+  <polyline
+     points="292,63 292,80 306,80"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline16"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="257,92 257,62 292,62"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline18"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.12915"
+     y="123.80228"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text20"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 003743946.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan188">Galendromus occidentalis</tspan></text>
+  <polyline
+     points="319,122 319,104 349,104"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline22"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.92908"
+     y="152.80647"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text24"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 022646256.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan190">Varroa destructor</tspan></text>
+  <polyline
+     points="340,140 340,128 361,128"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline26"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.28571"
+     y="179.94557"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text28"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">OQR76520.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan192">Tropilaelaps mercedesae</tspan></text>
+  <polyline
+     points="340,141 340,152 361,152"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline30"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="319,123 319,140 340,140"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline32"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="257,93 257,122 319,122"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline34"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="236,145 236,92 257,92"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline36"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.7774"
+     y="206.13933"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text38"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 023213596.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan194">Centruroides sculpturatus</tspan></text>
+  <polyline
+     points="251,198 251,176 280,176"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline40"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.74353"
+     y="236.48235"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text42"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 015918291.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan196">Parasteatoda tepidariorum</tspan></text>
+  <polyline
+     points="288,221 288,200 320,200"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline44"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.914"
+     y="262.80005"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text46"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">GBN25194.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan198">Araneus ventricosus</tspan></text>
+  <polyline
+     points="302,242 302,224 326,224"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline48"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.64044"
+     y="288.92682"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text50"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">KFM60971.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan200">Stegodyphus mimosarum</tspan></text>
+  <polyline
+     points="328,260 328,248 335,248"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline52"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.96985"
+     y="315.95618"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text54"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 035223281.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan202">Stegodyphus dumicola</tspan></text>
+  <polyline
+     points="328,261 328,272 347,272"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline56"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="302,243 302,260 328,260"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline58"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="288,222 288,242 302,242"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline60"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="251,199 251,221 288,221"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline62"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="236,146 236,198 251,198"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline64"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="216,220 216,145 236,145"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline66"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.3786"
+     y="345.11618"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text68"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 022256953.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan204">Limulus polyphemus</tspan></text>
+  <polyline
+     points="216,221 216,296 368,296"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline70"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="182,290 182,220 216,220"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline72"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.34229"
+     y="372.6315"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text74"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 022185496.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan206">Nilaparvata lugens</tspan></text>
+  <polyline
+     points="258,332 258,320 306,320"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline76"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.63416"
+     y="400.21634"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text78"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 008470006.2 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan208">Diaphorina citri</tspan></text>
+  <polyline
+     points="258,333 258,344 292,344"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline80"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="203,360 203,332 258,332"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline82"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.10779"
+     y="426.59464"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text84"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 023334787.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan210">Eurytemora affinis</tspan></text>
+  <polyline
+     points="222,389 222,368 350,368"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline86"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="634.60443"
+     y="453.16409"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text88"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">KAB7501447.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan212">Armadillidium nasatum</tspan></text>
+  <polyline
+     points="273,410 273,392 324,392"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline90"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.16132"
+     y="480.99628"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text92"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">MPC13413.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan214">Portunus trituberculatus</tspan></text>
+  <polyline
+     points="296,428 296,416 323,416"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline94"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.94031"
+     y="508.62021"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text96"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 037774940.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan216">Penaeus monodon</tspan></text>
+  <polyline
+     points="296,429 296,440 321,440"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline98"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="273,411 273,428 296,428"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline100"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="222,390 222,410 273,410"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline102"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="203,361 203,389 222,389"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline104"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="182,291 182,360 203,360"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline106"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="135,405 135,290 182,290"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline108"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.76324"
+     y="537.17462"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text110"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 035688512.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan218">Branchiostoma floridae</tspan></text>
+  <polyline
+     points="171,520 171,464 296,464"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline112"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.14185"
+     y="565.00659"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text114"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 027039642.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan220">Pocillopora damicornis</tspan></text>
+  <polyline
+     points="406,500 406,488 410,488"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline116"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="634.80194"
+     y="591.46729"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text118"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">PFX24226.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan222">Stylophora pistillata</tspan></text>
+  <polyline
+     points="406,501 406,512 456,512"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline120"
+     transform="matrix(1.1143834,0,0,1.0370677,183.18294,-0.91201163)" />
+  <polyline
+     points="390,518 390,500 406,500"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline122"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.06372"
+     y="618.0415"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text124"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 020629999.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan224">Orbicella faveolata</tspan></text>
+  <polyline
+     points="390,519 390,536 413,536"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline126"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="193,577 193,518 390,518"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline128"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.12531"
+     y="647.12476"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text130"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">AAH27459.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan226">Homo sapiens</tspan></text>
+  <polyline
+     points="330,572 330,560 342,560"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline132"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.276"
+     y="673.21509"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text134"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">NP 473392.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan228">Mus musculus</tspan></text>
+  <polyline
+     points="330,573 330,584 330,584"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline136"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="305,590 305,572 330,572"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline138"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.18359"
+     y="701.20758"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text140"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 028675740.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan230">Erpetoichthys calabaricus</tspan></text>
+  <polyline
+     points="305,591 305,608 328,608"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline142"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="256,636 256,590 305,590"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline144"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.33441"
+     y="727.84607"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text146"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 026531485.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan232">Notechis scutatus</tspan></text>
+  <polyline
+     points="304,644 304,632 311,632"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline148"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.9342"
+     y="756.25513"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text150"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 007436413.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan234">Python bivittatus</tspan></text>
+  <polyline
+     points="304,645 304,656 305,656"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline152"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="275,683 275,644 304,644"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline154"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.87317"
+     y="784.61267"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text156"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 029313165.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan236">Cottoperca gobio</tspan></text>
+  <polyline
+     points="308,692 308,680 313,680"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline158"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.75562"
+     y="811.71844"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text160"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 033964521.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan256">Pseudochaenichthys georgianus</tspan></text>
+  <polyline
+     points="308,693 308,704 312,704"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline162"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="298,722 298,692 308,692"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline164"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="637.24139"
+     y="838.75745"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text166"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 029482353.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan258">Oncorhynchus nerka</tspan></text>
+  <polyline
+     points="305,752 305,728 305,728"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline168"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.83649"
+     y="866.33148"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text170"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 029552329.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan260">Salmo trutta</tspan></text>
+  <polyline
+     points="306,776 306,752 307,752"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline172"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.32092"
+     y="896.98407"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text174"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 031652414.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan262">Oncorhynchus kisutch</tspan></text>
+  <polyline
+     points="306,788 306,776 306,776"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline176"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.77197"
+     y="923.10419"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text178"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 035597711.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan264">Oncorhynchus keta</tspan></text>
+  <polyline
+     points="306,789 306,800 306,800"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline180"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <line
+     x1="508.98816"
+     y1="803.85254"
+     x2="508.98816"
+     y2="828.74219"
+     stroke="#000000"
+     stroke-width="1.14599"
+     stroke-linecap="square"
+     id="line182" />
+  <polyline
+     points="305,753 305,776 306,776"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline184"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="298,723 298,752 305,752"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline186"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="275,684 275,722 298,722"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline188"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="256,637 256,683 275,683"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline190"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="193,578 193,636 256,636"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline192"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="171,521 171,577 193,577"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline194"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="135,406 135,520 171,520"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline196"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="110,614 110,405 135,405"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline198"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.2608"
+     y="952.78131"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text200"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 013388699.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan266">Lingula anatina</tspan></text>
+  <polyline
+     points="110,615 110,824 217,824"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline202"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="62,741 62,614 110,614"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline204"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.68958"
+     y="980.5127"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text206"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 034309271.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan268">Crassostrea gigas</tspan></text>
+  <polyline
+     points="79,869 79,848 156,848"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline208"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.77075"
+     y="1005.6147"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text210"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 025094188.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan270">Pomacea canaliculata</tspan></text>
+  <polyline
+     points="96,890 96,872 215,872"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline212"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.69586"
+     y="1032.2728"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text214"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 036361680.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan272">Octopus sinensis</tspan></text>
+  <polyline
+     points="159,908 159,896 169,896"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline216"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.64075"
+     y="1062.1304"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text218"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 014773204.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan274">Octopus bimaculoides</tspan></text>
+  <polyline
+     points="159,909 159,920 171,920"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline220"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="96,891 96,908 159,908"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline222"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="79,870 79,890 96,890"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline224"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="62,742 62,869 79,869"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline226"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="56,862 56,741 62,741"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline228"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.50763"
+     y="1087.087"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text230"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">CAC5406758.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan276">Mytilus coruscus</tspan></text>
+  <polyline
+     points="149,956 149,944 155,944"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline232"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.3407"
+     y="1117.8727"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text234"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">VDH95279.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan278">Mytilus galloprovincialis</tspan></text>
+  <polyline
+     points="149,957 149,968 163,968"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline236"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="66,984 66,956 149,956"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline238"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="635.54694"
+     y="1145.0417"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text240"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 021377781.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan280">Mizuhopecten yessoensis</tspan></text>
+  <polyline
+     points="114,1013 114,992 121,992"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline242"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.375"
+     y="1173.4275"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text244"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">XP 033762842.1 <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan282">Pecten maximus</tspan></text>
+  <polyline
+     points="120,1034 120,1016 120,1016"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline246"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="636.51233"
+     y="1196.1318"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text248"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599"><tspan
+       style="font-style:italic;font-weight:bold;stroke-width:1.14599"
+       id="tspan288">MN256324.1 Study Argopecten purpuratus</tspan></text>
+  <polyline
+     points="456,1052 456,1040 456,1040"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline250"
+     transform="matrix(1.2663448,0,0,1.0370677,94.893379,-0.91201163)" />
+  <text
+     x="636.85455"
+     y="1223.8353"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text252"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">Mitochondrion <tspan
+   style="font-style:italic;stroke-width:1.14599"
+   id="tspan284">Argopecten purpuratus</tspan></text>
+  <polyline
+     points="456,1053 456,1064 456,1064"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline254"
+     transform="matrix(1.2663448,0,0,1.0370677,94.893379,-1.9490794)" />
+  <polyline
+     points="120,1035 120,1052 456,1052"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline256"
+     transform="matrix(1.1871983,0,0,1.0370677,130.98421,-0.91201163)" />
+  <polyline
+     points="114,1014 114,1034 120,1034"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline258"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="66,985 66,1013 114,1013"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline260"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <polyline
+     points="56,863 56,984 66,984"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline262"
+     transform="matrix(1.2663448,0,0,1.0370677,121.48662,-0.91201163)" />
+  <text
+     x="589.95325"
+     y="1218.6635"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text264"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="552.29089"
+     y="565.10956"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text266"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">80</text>
+  <text
+     x="525.93323"
+     y="585.73737"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text268"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="249.75044"
+     y="1087.6794"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text270"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="261.2103"
+     y="1059.0298"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text272"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="217.66281"
+     y="1179.3585"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text274"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="436.54626"
+     y="42.539692"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text276"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="457.17401"
+     y="647.62061"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text278"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="476.65579"
+     y="178.91211"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text280"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="454.88205"
+     y="316.43051"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text282"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="427.37836"
+     y="730.13171"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text284"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="436.54626"
+     y="880.25586"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text286"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="439.98422"
+     y="785.13904"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text288"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="442.27618"
+     y="907.75958"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text290"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">66</text>
+  <text
+     x="428.52435"
+     y="845.87628"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text292"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="428.52435"
+     y="668.24835"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text294"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="402.16666"
+     y="801.18286"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text296"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">80</text>
+  <text
+     x="426.23239"
+     y="508.95624"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text298"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">95</text>
+  <text
+     x="413.62653"
+     y="63.167458"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text300"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="444.56818"
+     y="158.28433"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text302"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="372.371"
+     y="747.32141"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text304"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="224.53873"
+     y="1203.4241"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text306"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">63</text>
+  <text
+     x="391.85278"
+     y="488.32852"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text308"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="374.66299"
+     y="372.58383"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text310"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">100</text>
+  <text
+     x="433.10834"
+     y="295.80273"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text312"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">88</text>
+  <text
+     x="417.06451"
+     y="271.737"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text314"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">96</text>
+  <text
+     x="381.53891"
+     y="97.547043"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text316"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">77</text>
+  <text
+     x="374.66299"
+     y="245.37932"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text318"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">51</text>
+  <text
+     x="357.47318"
+     y="158.28433"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text320"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">63</text>
+  <text
+     x="177.55328"
+     y="1014.3363"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text322"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">35</text>
+  <text
+     x="162.65546"
+     y="1146.1248"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text324"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">56</text>
+  <text
+     x="197.03505"
+     y="1038.4021"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text326"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">47</text>
+  <text
+     x="319.65564"
+     y="431.02917"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text328"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">57</text>
+  <text
+     x="341.42938"
+     y="464.26276"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text330"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">45</text>
+  <text
+     x="334.55347"
+     y="244.23335"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text332"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">92</text>
+  <text
+     x="295.5899"
+     y="324.45239"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text334"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">97</text>
+  <text
+     x="308.19577"
+     y="679.70825"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text336"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">61</text>
+  <text
+     x="213.07886"
+     y="695.75208"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text338"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">99</text>
+  <text
+     x="282.98407"
+     y="614.38702"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text340"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">69</text>
+  <text
+     x="241.72853"
+     y="456.24088"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text342"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">79</text>
+  <line
+     x1="197.4673"
+     y1="1152.3074"
+     x2="303.84027"
+     y2="1152.3074"
+     stroke="#000000"
+     stroke-width="1.14599"
+     stroke-linecap="square"
+     id="line344" />
+  <line
+     x1="197.4673"
+     y1="1148.1591"
+     x2="197.4673"
+     y2="1156.4556"
+     stroke="#000000"
+     stroke-width="1.14599"
+     stroke-linecap="square"
+     id="line346" />
+  <line
+     x1="303.84027"
+     y1="1148.1591"
+     x2="303.84027"
+     y2="1156.4556"
+     stroke="#000000"
+     stroke-width="1.14599"
+     stroke-linecap="square"
+     id="line348" />
+  <text
+     x="211.93289"
+     y="1307.709"
+     fill="#212121"
+     font-size="12.6059px"
+     font-family="'MS Sans Serif'"
+     id="text350"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">0.20</text>
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226"
+     cx="697.62048"
+     cy="29.943312"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-3"
+     cx="698.2663"
+     cy="55.97971"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-6"
+     cx="698.56702"
+     cy="81.969727"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-7"
+     cx="698.14282"
+     cy="106.90402"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-5"
+     cx="698.63873"
+     cy="133.12798"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-35"
+     cx="697.72516"
+     cy="156.46329"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-62"
+     cx="697.61145"
+     cy="180.54887"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-9"
+     cx="698.13806"
+     cy="206.81772"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-1"
+     cx="697.9754"
+     cy="232.89043"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-2"
+     cx="698.59888"
+     cy="254.69511"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-70"
+     cx="697.97839"
+     cy="279.25638"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-93"
+     cx="698.28058"
+     cy="305.89508"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-60"
+     cx="698.6524"
+     cy="330.83795"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-626"
+     cx="698.25464"
+     cy="356.56271"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-18"
+     cx="698.72571"
+     cy="379.54288"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-79"
+     cx="697.73816"
+     cy="404.10538"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-20"
+     cx="696.87122"
+     cy="429.22336"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-23"
+     cx="697.55823"
+     cy="454.14139"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-75"
+     cx="697.98615"
+     cy="479.2995"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-92"
+     cx="697.83197"
+     cy="505.08658"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-28"
+     cx="697.86945"
+     cy="528.42023"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-97"
+     cx="698.02643"
+     cy="554.74042"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-36"
+     cx="697.60052"
+     cy="581.02063"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-12"
+     cx="697.32111"
+     cy="603.68982"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-931"
+     cx="698.22046"
+     cy="628.75244"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-94"
+     cx="697.77118"
+     cy="653.15204"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-78"
+     cx="697.49744"
+     cy="679.22864"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-4"
+     cx="697.97821"
+     cy="704.44244"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-50"
+     cx="697.39905"
+     cy="730.53546"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-361"
+     cx="697.96283"
+     cy="753.61548"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-0"
+     cx="698.30896"
+     cy="777.99432"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-63"
+     cx="697.76013"
+     cy="806.31903"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-206"
+     cx="697.73224"
+     cy="829.1123"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-15"
+     cx="697.09857"
+     cy="856.19684"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-54"
+     cx="697.44849"
+     cy="881.9248"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-76"
+     cx="697.92444"
+     cy="903.98041"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-56"
+     cx="697.68774"
+     cy="927.50531"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-937"
+     cx="697.69965"
+     cy="954.97418"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-45"
+     cx="697.28583"
+     cy="979.24146"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-25"
+     cx="697.41321"
+     cy="1005.4245"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-47"
+     cx="696.77069"
+     cy="1030.8953"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-44"
+     cx="697.95929"
+     cy="1057.1105"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-30"
+     cx="697.76294"
+     cy="1076.9629"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-786"
+     cx="698.19629"
+     cy="1102.6189"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#eb0202;fill-opacity:0.984314;stroke:#eb0202;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:0.984314"
+     id="path226-786-8"
+     cx="428.86032"
+     cy="1158.0774"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <ellipse
+     style="fill:#0f7f0f;fill-opacity:1;stroke:#0f7f0f;stroke-width:0.572993;stroke-miterlimit:10;stroke-opacity:1"
+     id="path226-44-8"
+     cx="429.00281"
+     cy="1178.7269"
+     rx="3.1658621"
+     ry="2.5926692" />
+  <text
+     x="396.33774"
+     y="1284.8754"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text252-1"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">Betha type</text>
+  <text
+     x="396.54828"
+     y="1307.2257"
+     fill="#000000"
+     font-size="17.1897px"
+     font-family="default"
+     id="text252-1-9"
+     transform="scale(1.1050258,0.90495624)"
+     style="stroke-width:1.14599">Alpha type</text>
+</svg>
