@@ -1,5 +1,7 @@
 ## README
 
+Phosphatidylinositol-5-Phosphate-4-Kinase-2-β (PI5P4K-2β) gene upregulation as early response to hyperosmotic stress in Argopecten purpuratus
+
 ## Abstract
 
 ### Background
